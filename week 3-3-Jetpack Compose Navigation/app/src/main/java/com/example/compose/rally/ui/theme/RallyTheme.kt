@@ -31,7 +31,6 @@ import androidx.compose.ui.unit.sp
  */
 @Composable
 fun RallyTheme(content: @Composable () -> Unit) {
-
     MaterialTheme(colors = ColorPalette, typography = Typography, content = content)
 }
 
